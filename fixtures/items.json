@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Washington Apple (1 pc)",
+    "category": "F_N_V"
+  },
+  {
+    "id": 2,
+    "name": "Banana (0.5kg)",
+    "category": "F_N_V"
+  },
+  {
+    "id": 3,
+    "name": "Parle-G Biscuit (200g)",
+    "category": "Grocery"
+  }
+]

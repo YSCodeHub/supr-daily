@@ -1,0 +1,25 @@
+{
+    "customer_id": 2,
+    "delivery_date": "2020-10-13",
+    "warehouse_id": 200,
+    "items": [
+        {
+            "item_id": 1,
+            "item_name": "Washington Apple (1 pc)",
+            "category": "F_N_V",
+            "quantity": 30
+        },
+        {
+            "item_id": 2,
+            "item_name": "Banana (0.5kg)",
+            "category": "F_N_V",
+            "quantity": 1
+        },
+        {
+            "item_id": 3,
+            "item_name": "Parle-G Biscuit (200g)",
+            "category": "Grocery",
+            "quantity": 1
+        }
+    ]
+}
